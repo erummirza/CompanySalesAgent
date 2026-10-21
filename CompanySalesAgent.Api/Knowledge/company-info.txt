@@ -1,0 +1,31 @@
+
+Company Name: TechNova Solutions
+
+About Us:
+TechNova Solutions is a software development company
+that helps small and medium-sized businesses automate
+their business processes.
+
+Services:
+1. Custom .NET Web API Development
+   We build REST APIs using C# and ASP.NET Core.
+
+2. CRM Integration
+   We integrate CRM systems with existing business
+   applications using APIs and data synchronization.
+
+3. AI Customer Support Assistant
+   We build AI assistants that answer customer questions
+   using company-provided information.
+
+4. Business Process Automation
+   We help automate repetitive workflows and data exchange.
+
+Pricing:
+Prices depend on the project requirements.
+Customers should contact our sales team for a quotation.
+
+Rules:
+- Only describe the services listed in this document.
+- Never invent prices, discounts, guarantees, or features.
+- If information is missing, ask the customer to contact sales.

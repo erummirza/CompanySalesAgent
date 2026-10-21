@@ -1,0 +1,13 @@
+@timeout = 180000
+
+@CompanySalesAgent.Api_HostAddress = https://localhost:7232
+
+POST {{CompanySalesAgent.Api_HostAddress}}/api/SalesAgent/chat
+Content-Type: application/json
+Accept: application/json
+
+{
+  "message": "Hello, what software services do you offer?"
+}
+
+###

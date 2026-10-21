@@ -1,0 +1,8 @@
+@CompanySalesAgent.Api_HostAddress = https://localhost:7232
+
+POST {{CompanySalesAgent.Api_HostAddress}}/api/SalesAgent/chat
+Content-Type: application/json
+
+{
+  "message": "What services do you offer?"
+}
